@@ -1,5 +1,5 @@
-- Maître de conférences en mathématiques, université de Lorraine
-- [Magistère de mathématiques de Nancy](https://iecl.univ-lorraine.fr/magistere-poincare/), une formation sélective de trois ans post-CPGE et L2 en mathématiques
+- Maître de conférences en mathématiques, université de Lorraine. Responsable de la L3 Maths à Nancy.
+- [Magistère de mathématiques de Nancy](https://iecl.univ-lorraine.fr/magistere-poincare/), formation sélective de 3 ans post-CPGE/L2. Plus d'informations sur [la page github](https://github.com/dmegy/magistere/)
 - [Club Mathématique de Nancy](https://dmegy.perso.math.cnrs.fr/club), pour pratiquer les maths comme un loisir, 4ème->terminale 
 - [Dojomath.fr](https://dojomath.fr), webapp de quiz de mathématiques, du collège au supérieur (bac+3)
 - Site professionnel : https://dmegy.perso.math.cnrs.fr/
