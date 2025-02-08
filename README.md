@@ -1,4 +1,8 @@
-## Hi there 👋
+- Maître de conférences en mathématiques, université de Lorraine
+- [Magistère de mathématiques de Nancy](https://iecl.univ-lorraine.fr/magistere-poincare/), une formation sélective de trois ans post-CPGE et L2 en mathématiques
+- [Club Mathématique de Nancy](https://dmegy.perso.math.cnrs.fr/club), pour pratiquer les maths comme un loisir, 4ème->terminale 
+- [Dojomath.fr](https://dojomath.fr), webapp de quiz de mathématiques, du collège au supérieur (bac+3)
+- Site professionnel : https://dmegy.perso.math.cnrs.fr/
 
 <!--
 **dmegy/dmegy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
