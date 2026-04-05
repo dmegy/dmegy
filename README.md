@@ -3,6 +3,8 @@
 - [Club Mathématique de Nancy](https://dmegy.perso.math.cnrs.fr/club), pour pratiquer les maths comme un loisir, 4ème->terminale 
 - [Dojomath.fr](https://dojomath.fr), webapp de quiz de mathématiques, du collège au supérieur (bac+3)
 - [Animathor.fr](https://www.animathor.fr), site éducatif pour s'entraîner en mathématiques au collège et lycée.
+- [luahyperbolic](https://github.com/dmegy/luahyperbolic/), un package latex de géométrie hyperbolique, écrit en Lua.
+- Achetez le livre [Le théorème de Pythagore, défis mathématiques progressifs](https://www.editions-ellipses.fr/fr/accueil/17031-31643-le-theoreme-de-pythagore-defis-mathematiques-progressifs-9782340115743.html#/1-format_disponible-broche) à votre petit frère et votre petite sœeur (à partir de la 4ème) ! :-)
 - Site professionnel : https://dmegy.perso.math.cnrs.fr/
 
 <!--
