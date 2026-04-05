@@ -4,7 +4,7 @@
 - [Dojomath.fr](https://dojomath.fr), webapp de quiz de mathématiques, du collège au supérieur (bac+3)
 - [Animathor.fr](https://www.animathor.fr), site éducatif pour s'entraîner en mathématiques au collège et lycée.
 - [luahyperbolic](https://github.com/dmegy/luahyperbolic/), un package latex de géométrie hyperbolique, écrit en Lua.
-- Achetez le livre [Le théorème de Pythagore, défis mathématiques progressifs](https://www.editions-ellipses.fr/fr/accueil/17031-31643-le-theoreme-de-pythagore-defis-mathematiques-progressifs-9782340115743.html#/1-format_disponible-broche) à votre petit frère et votre petite sœur (à partir de la 4ème) ! :-) Il s'agit de problèmes donnés pour la plupart au club de maths. La page web du club contient beaucoup d'autres ressources gratuites, feuilles d'exos etc.
+- Achetez le livre [Le théorème de Pythagore, défis mathématiques progressifs](https://amzn.to/4tsTYZO) à votre petit frère et votre petite sœur (à partir de la 4ème) ! :-) Il s'agit de problèmes donnés pour la plupart au club de maths. La page web du club contient beaucoup d'autres ressources gratuites, feuilles d'exos etc.
 - Site professionnel : https://dmegy.perso.math.cnrs.fr/
 
 <!--
